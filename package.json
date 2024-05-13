@@ -1,0 +1,14 @@
+{
+  "name": "node_practice_project",
+  "version": "1.0.0",
+  "description": "Learning Nodejs",
+  "main": "node.js",
+  "scripts": {
+    "start": "node node.js"
+  },
+  "author": "Naveen V",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
